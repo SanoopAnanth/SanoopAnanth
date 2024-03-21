@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanoop A</h1>
-<h3 align="center">Passionate in learning topics in ML and DL</h3>
+<h3 align="center">Passionate in learning topics on ML and DL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanoopananth&label=Profile%20views&color=0e75b6&style=flat" alt="sanoopananth" /> </p>
 

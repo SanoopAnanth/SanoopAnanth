@@ -29,7 +29,7 @@
 <a href="https://instagram.com/sanoop_ananth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanoop_ananth" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@sanoop.a8925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sanoop.a8925" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sanoopananth2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sanoopananth2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sanoop_a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sanoop_a/" height="30" width="40" /></a>
+<a href="https://leetcode.com/Sanoop_A/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sanoop_a/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/A76raZ8A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/A76raZ8A" height="30" width="40" /></a>
 </p>
 
